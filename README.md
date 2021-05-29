@@ -1,5 +1,5 @@
-# Quem sou eu?
+# Who is me?
 
-Sou eu um garoto de 16 anos apaixonado pela automação de processos, comunicações de protocolos, software livre, programação funcional e também com uma extrema paixão pela linguagem de programação Python, a qual eu sempre tenho usado por ser simples, open-source, descomplicada, extremamente explícita e por sua filosofia em geral que oferece legibilidade.
+it's me a boy of 16-years old infatuated for the process automation, communication of protocol, open-source software, functional programing and also with a extreme infatuation for to Python programing language, the which always do use for the reason of the be extremely simple, open-source, descomplicated, explict and for its geral filosofy providing legibility.
 
 [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
